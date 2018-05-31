@@ -1,0 +1,62 @@
+.bouldering, .guitar, .web {
+list-style-type: none;
+margin-left:0px;
+padding-left:0px;
+display: inline-block;
+}
+
+.bouldering, .guitar, .web p,h3 {
+text-align: center; 
+padding: 0;
+}
+
+.hobbyli {
+padding-left: 0;
+}
+
+.bouldering img
+{
+float:left;
+
+}
+
+.guitar img
+{
+float:right;
+
+}
+
+.web img
+{
+float:left;
+
+}
+
+/*.guitar {
+list-style-type: none;
+margin-left:0px;
+padding-left:0px;
+display: inline-block;
+}
+
+
+
+.guitar p,h3 {
+text-align: center; 
+padding: 0;
+}
+
+
+.web {
+list-style-type: none;
+margin-left:0px;
+padding-left:0px;
+display: inline-block;
+}
+
+
+.web p,h3 {
+text-align: center; 
+padding: 0;
+}
+*/
